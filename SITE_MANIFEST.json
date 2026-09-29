@@ -1,0 +1,26 @@
+{
+  "domain": "crombieanchor.com",
+  "brand": "Crombie Anchor Atelier & Guild",
+  "niche": "jacket",
+  "institutional_contact": {
+    "address": "555 California Street, Suite 3800, San Francisco, CA 94104, United States",
+    "phone": "+1-877-742-9188",
+    "email": "concierge@crombieanchor.com"
+  },
+  "pages": [
+    "index.html",
+    "about.html",
+    "products.html",
+    "faq.html",
+    "contact.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "assets_count": 20,
+  "php_files_count": 0,
+  "blog_included": false,
+  "google_tag": "G-0LY0HY7L01",
+  "qa_verified": true
+}
